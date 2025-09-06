@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**shahoodzee/shahoodzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Shahood**, a passionate Software Engineer from Pakistan 🇵🇰.  
+I love building **.NET backends**, experimenting with **React Native apps**, and learning about **cloud-native systems**.  
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Migrating legacy apps to **.NET 9**  
+- Exploring **RabbitMQ** for messaging  
+- Experimenting with **multi-file S3 uploads (25GB+)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+- **Backend:** .NET 9, ASP.NET MVC, Entity Framework  
+- **Frontend:** ReactJS, Angular, Xamarin  
+- **Databases:** SQL Server, PostgreSQL  
+- **Cloud & DevOps:** AWS (S3, Cognito), Docker  
+
+### ✨ Fun Fact
+When I’m not coding, I’m reading about **biotech & AI** and exploring how CS overlaps with **bioengineering** 🌱.  
+
+📫 Let’s connect: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)  
