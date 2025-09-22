@@ -17,4 +17,4 @@ I love building **.NET backends**, experimenting with **React Native apps**, and
 ### ✨ Fun Fact
 When I’m not coding, I’m reading about **biotech & AI** and exploring how CS overlaps with **bioengineering** 🌱.  
 
-📫 Let’s connect: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)  
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/shahood-amir-94a0881a8/) | [Email](mailto:your@email.com)  
