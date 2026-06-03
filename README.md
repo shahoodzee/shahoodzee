@@ -1,10 +1,7 @@
 <!-- Banner Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Shahood%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Senior+Software+Engineer;Full+Stack+.NET+Developer;React+%26+React+Native+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -38,13 +35,9 @@ Previously at **VaporVM**, I architected **ManageX**, a modular monolithic platf
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahoodzee&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahoodzee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahoodzee&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahoodzee&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=shahoodzee&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
