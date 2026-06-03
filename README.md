@@ -151,6 +151,11 @@ Online marketplace for buying and selling game accounts (Valorant, CS:GO, Steam,
 ## Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Async programming in legacy old .NET apps.](https://medium.com/@shahood.bin.amir/integrating-async-programming-in-legacy-old-net-apps-ba8d980cc5e9?source=rss-246f89846a06------2)
+- [The Bug That Only Lived in Production &lpar;and Vanished Locally&rpar;: An EF Core Tracking Trap](https://medium.com/@shahood.bin.amir/the-bug-that-only-lived-in-production-and-vanished-locally-an-ef-core-tracking-trap-ca0a7aac65e5?source=rss-246f89846a06------2)
+- [Incognito Isn’t Invisible: DNS Still Knows](https://medium.com/@shahood.bin.amir/incognito-isnt-invisible-dns-still-knows-2dabddba94ef?source=rss-246f89846a06------2)
+- [Why .NET Stops at string.IsNullOrEmpty&lpar;&rpar;](https://medium.com/@shahood.bin.amir/why-net-stops-at-string-isnullorempty-803af9ade96a?source=rss-246f89846a06------2)
+- [Why Every Application Should Keep an Audit Log of Sent Emails](https://medium.com/@shahood.bin.amir/why-every-application-should-keep-an-audit-log-of-sent-emails-76c5b3594dc9?source=rss-246f89846a06------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
