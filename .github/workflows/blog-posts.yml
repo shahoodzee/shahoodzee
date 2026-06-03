@@ -1,0 +1,26 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@shahood.bin.amir"
+          max_post_count: 5
+          readme_path: "README.md"
+          commit_message: "docs: update README with latest blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
